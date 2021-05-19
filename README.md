@@ -1,1 +1,1 @@
-# iitb_ai_email_classifier
+# AI_email_classifier_iitB
